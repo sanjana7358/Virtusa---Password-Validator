@@ -1,8 +1,8 @@
-Password Validator (Java)
+"SafeLog"-Password Validator (Java)
 
 Project Overview
 
-The Password Validator is a Java-based application that checks whether a given password meets specific security criteria. It helps ensure strong password creation by validating length, characters, and complexity rules.
+SafeLog is a Java-based application that checks whether a given password meets specific security criteria. It helps ensure strong password creation by validating length, characters, and complexity rules.
 
 ---
 
@@ -40,6 +40,7 @@ PasswordValidator/
 │
 ├── PasswordValidator.java
 └── README.md
+└── SafeLog-Output.png
 
 ---
 
